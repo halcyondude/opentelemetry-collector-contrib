@@ -53,7 +53,7 @@ require (
 	github.com/mostynb/go-grpc-compression v1.1.16 // indirect
 	github.com/opencontainers/go-digest v1.0.0 // indirect
 	github.com/opencontainers/image-spec v1.0.2 // indirect
-	github.com/opencontainers/runc v1.0.3 // indirect
+	github.com/opencontainers/runc v1.1.12 // indirect
 	github.com/pelletier/go-toml v1.9.4 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
@@ -73,10 +73,10 @@ require (
 	go.opentelemetry.io/otel/metric v0.27.0 // indirect
 	go.opentelemetry.io/otel/trace v1.5.0 // indirect
 	go.uber.org/multierr v1.8.0 // indirect
-	golang.org/x/net v0.0.0-20220127200216-cd36cc0744dd // indirect
+	golang.org/x/net v0.8.0 // indirect
 	golang.org/x/oauth2 v0.0.0-20211104180415-d3ed0bb246c8 // indirect
-	golang.org/x/sys v0.0.0-20220209214540-3681064d5158 // indirect
-	golang.org/x/text v0.3.7 // indirect
+	golang.org/x/sys v0.6.0 // indirect
+	golang.org/x/text v0.8.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/genproto v0.0.0-20220222213610-43724f9ea8cf // indirect
 	google.golang.org/grpc v1.45.0 // indirect
