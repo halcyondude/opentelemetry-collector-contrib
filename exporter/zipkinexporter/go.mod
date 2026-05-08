@@ -1,6 +1,6 @@
 module github.com/open-telemetry/opentelemetry-collector-contrib/exporter/zipkinexporter
 
-go 1.24.0
+go 1.25
 
 require (
 	github.com/cenkalti/backoff/v5 v5.0.3
@@ -28,7 +28,7 @@ require (
 )
 
 require (
-	github.com/apache/thrift v0.22.0 // indirect
+	github.com/apache/thrift v0.23.0 // indirect
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
 	github.com/felixge/httpsnoop v1.0.4 // indirect
