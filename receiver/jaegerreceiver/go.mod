@@ -1,9 +1,9 @@
 module github.com/open-telemetry/opentelemetry-collector-contrib/receiver/jaegerreceiver
 
-go 1.24.0
+go 1.25
 
 require (
-	github.com/apache/thrift v0.22.0
+	github.com/apache/thrift v0.24.0
 	github.com/gorilla/mux v1.8.1
 	github.com/jaegertracing/jaeger-idl v0.6.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/common v0.144.0
